@@ -8,3 +8,4 @@
 - `index.js` 待测试代码
 - `babel.config.js` Babel 配置
 - `tsconfig.json` TS 配置
+- 移步分支 2
