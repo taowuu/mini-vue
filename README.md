@@ -10,4 +10,12 @@
 - `tsconfig.json` TS 配置
 - 移步分支 2
 
-## 
+## reactive
+- proxy 代理
+- get 
+    - track 依赖收集
+- set 
+    - trigger 触发依赖
+
+## effect
+- fn.run() 触发 get 收集依赖
