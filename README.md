@@ -2,6 +2,7 @@
 拥有自己的 mini Vue
 
 ## 环境配置
+- `npm install -g typescript`
 - `npm install` 安装依赖
 - `/src` 实现模块
     - `/tests` 测试模块
